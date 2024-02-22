@@ -1,1 +1,2 @@
-# g243i1t
+# Izabelli - 22
+# Lanay - 24
