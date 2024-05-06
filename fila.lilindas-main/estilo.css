@@ -1,0 +1,12 @@
+.form {
+    width: 50%;
+    background-color: rgb(178, 154, 209);
+    margin: 20px;
+    padding: 30px;
+    border-style: dashed;
+    border-color: rgb(219, 195, 241);
+    border-radius: 10px;
+}
+body {
+    background-color: rgb(82, 67, 117);
+}
